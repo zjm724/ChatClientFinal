@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChatClient</string>
+    <string name="messagehint">Type your message here</string>
+    <string name="title_activity_contacts">Contacts</string>
+    <string name="friend">Friend Name</string>
+
+    <string-array name="friends">
+        <item>John</item>
+        <item>Paul</item>
+        <item>George</item>
+        <item>Ringo</item>
+    </string-array>
+</resources>
